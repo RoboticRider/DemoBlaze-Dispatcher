@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ourGmW/HUm6OE+OpPbemgBycCghp6FFJTX7XSi9cB9tNPZWu639bNcKQjRU0jCbg/wtVTNmA++nCeP8gNnZBSg==",
+  "dgSpecHash": "IwdYi+GpV4+wM1rTCs7NitJaoYNQJSHz3gif+BX+FBRfaQzFcE7K/daqVi8pjkU6oqrzwI20yTNrOtm6KAHxhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ppjai\\OneDrive\\Documents\\UiPath\\REF-DemoBlaze-Dispatcher\\.local\\",
+  "projectFilePath": "C:\\Users\\ppjai\\Documents\\UiPath\\REF-DemoBlaze-Dispatcher\\.local\\",
   "expectedPackageFiles": [
+    "C:\\Users\\ppjai\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
@@ -248,6 +249,7 @@
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\uipath.system.activities.runtime.24.10.4.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\uipath.system.activities.runtime.windows.24.10.4.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\uipath.telemetry.client.2.1.3.nupkg.sha512",
+    "C:\\Users\\ppjai\\.nuget\\packages\\uipath.testing.activities\\24.10.1\\uipath.testing.activities.24.10.1.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.3\\uipath.uiautomation.activities.24.10.3.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\24.10.3\\uipath.uiautomation.activities.runtime.24.10.3.nupkg.sha512",
     "C:\\Users\\ppjai\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.3\\uipath.uiautomation.activities.runtime.design.24.10.3.nupkg.sha512",
